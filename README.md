@@ -29,3 +29,5 @@ From **front-end UIs** to **back-end APIs**, I strive to create seamless and **u
 ---
 
 Thanks for stopping by! Feel free to explore my repositories! 🚀  
+
+https://count.getloli.com/@SoloDevUnity?name=SoloDevUnity&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
