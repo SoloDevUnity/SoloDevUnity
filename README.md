@@ -1,34 +1,65 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a **solo developer** passionate about creating **games** and **web-based applications**.  
-I love tackling challenges, learning new technologies, and bringing ideas to life through code.
+I'm a **solo game developer** passionate about building **fun, immersive experiences** using tools like **Unity** and **GameMaker Studio**.  
+I specialize in **C#** and **GML (GameMaker Language)** — from gameplay mechanics to polishing the final product, I love every part of game creation.
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ Core Tech Stack  
 
-### Languages:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) **C#**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) **TypeScript - small experience**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript - small experience**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML**    
+### Languages & Tools:  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br/>
+      <b>C# (Primary)</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/yoYoGames/GameMaker-Website/master/src/images/gml-icon.png" width="40" /><br/>
+      <b>GML</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" /><br/>
+      <b>Unity</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/GameMaker_Studio_Logo.png" width="40" /><br/>
+      <b>GameMaker</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎮 Game Development  
 
-I create **immersive gaming experiences** using **Unity (C#)** and other tools.  
-I love experimenting with **game mechanics, physics, and AI** to make my games engaging and fun!  
+Game creation is my passion. Whether it’s 2D or 3D, I enjoy crafting:  
+- **Creative gameplay systems**  
+- **Responsive controls and physics**  
+- **Smart enemy AI and behavior trees**  
+- **Polished player experiences**
 
-## 🌐 Web Development  
-
-I build **modern, responsive, and interactive** web applications using **TypeScript, and JavaScript**.  
-From **front-end UIs** to **back-end APIs**, I strive to create seamless and **user-friendly** web experiences.  
+I primarily use:  
+- **Unity** for 3D and complex systems (C#)  
+- **GameMaker Studio** for fast 2D prototyping (GML)
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories! 🚀  
+## 🌟 What I Love to Do  
+- Build new mechanics from scratch  
+- Design engaging gameplay loops  
+- Optimize code and performance  
+- Push creative boundaries in solo projects
+
+---
+
+Thanks for checking out my profile!  
+Feel free to explore my repositories or connect—I'm always working on something new! 🚀
 
 
 <img src="https://count.getloli.com/@SoloDevUnity?name=SoloDevUnity&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
