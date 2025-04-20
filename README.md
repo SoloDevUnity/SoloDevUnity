@@ -13,11 +13,23 @@ I specialize in **C#** and **GML (GameMaker Language)** — from gameplay mechan
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br/>
-      <b>C# (Primary)</b>
+      <b>C#</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/yoYoGames/GameMaker-Website/master/src/images/gml-icon.png" width="40" /><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/GameMaker_Logo.svg" width="40" /><br/>
       <b>GML</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br/>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br/>
+      <b>TypeScript</b>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>
@@ -28,8 +40,8 @@ I specialize in **C#** and **GML (GameMaker Language)** — from gameplay mechan
       <b>Unity</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/GameMaker_Studio_Logo.png" width="40" /><br/>
-      <b>GameMaker</b>
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/90/GameMaker_Studio_2_Logo.png" width="100" /><br/>
+      <b>GameMaker Studio 2</b>
     </td>
   </tr>
 </table>
