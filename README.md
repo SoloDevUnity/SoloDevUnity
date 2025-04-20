@@ -60,6 +60,13 @@ I primarily use:
 
 ---
 
+## What im working on
+- I currently work on / operate 2 project
+- Paper Hearts - A game with a heavy backstory made in Game Maker Studio 2
+- RC2 a crosshair app built for the gaming communtity
+
+---
+
 Thanks for checking out my profile!  
 Feel free to explore my repositories or connect—I'm always working on something new! 🚀
 
