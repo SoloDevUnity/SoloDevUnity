@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 I'm a **solo game developer** passionate about building **fun, immersive experiences** using tools like **Unity** and **GameMaker Studio**.  
-I specialize in **C#** and **GML (GameMaker Language)** — from gameplay mechanics to polishing the final product, I love every part of game creation.
+I specialize in **C#** — from gameplay mechanics to polishing the final product, I love every part of game creation.
 
 ---
 
@@ -14,10 +14,6 @@ I specialize in **C#** and **GML (GameMaker Language)** — from gameplay mechan
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br/>
       <b>C#</b>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/GameMaker_Logo.svg" width="40" /><br/>
-      <b>GML</b>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br/>
@@ -40,8 +36,8 @@ I specialize in **C#** and **GML (GameMaker Language)** — from gameplay mechan
       <b>Unity</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/9/90/GameMaker_Studio_2_Logo.png" width="100" /><br/>
-      <b>GameMaker Studio 2</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/GameMaker_Studio_Logo.svg" width="60" /><br/>
+      <b>GameMaker Studio</b>
     </td>
   </tr>
 </table>
@@ -58,7 +54,7 @@ Game creation is my passion. Whether it’s 2D or 3D, I enjoy crafting:
 
 I primarily use:  
 - **Unity** for 3D and complex systems (C#)  
-- **GameMaker Studio** for fast 2D prototyping (GML)
+- **GameMaker Studio** for fast 2D prototyping
 
 ---
 
