@@ -36,8 +36,8 @@ I specialize in **C#** — from gameplay mechanics to polishing the final produc
       <b>Unity</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/9/90/GameMaker_Studio_2_Logo.png" width="90" /><br/>
-      <b>GameMaker Studio 2</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/GameMaker_Logo_2023.svg" width="60" /><br/>
+      <b>GameMaker Studio</b>
     </td>
   </tr>
 </table>
