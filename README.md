@@ -61,7 +61,7 @@ I primarily use:
 ---
 
 ## What im working on
-- I currently work on / operate 2 project
+- I currently work on / operate 2 project's
 - Paper Hearts - A game with a heavy backstory made in Game Maker Studio 2
 - RC2 a crosshair app built for the gaming communtity
 
