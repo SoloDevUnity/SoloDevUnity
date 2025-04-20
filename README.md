@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 I'm a **solo game developer** passionate about building **fun, immersive experiences** using tools like **Unity** and **GameMaker Studio**.  
-I specialize in **C#** — from gameplay mechanics to polishing the final product, I love every part of game creation.
+I specialize in **C# and GML** — from gameplay mechanics and storyline to polishing the final product, I love every part of game creation (exept the art).
 
 ---
 
@@ -43,20 +43,18 @@ I specialize in **C#** — from gameplay mechanics to polishing the final produc
 ## 🎮 Game Development  
 
 Game creation is my passion. Whether it’s 2D or 3D, I enjoy crafting:  
-- **Creative gameplay systems**  
-- **Responsive controls and physics**  
-- **Smart enemy AI and behavior trees**  
-- **Polished player experiences**
+- **Peak gameplay**  
+- **Optimised fast code**   
+- **Creative storylines**
 
 I primarily use:  
 - **Unity** for 3D and complex systems (C#)  
-- **GameMaker Studio** for fast 2D prototyping
+- **GameMaker Studio** for peak 2D indie games
 
 ---
 
 ## 🌟 What I Love to Do  
-- Build new mechanics from scratch  
-- Design engaging gameplay loops  
+- Design engaging gameplay
 - Optimize code and performance  
 - Push creative boundaries in solo projects
 
